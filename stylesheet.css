@@ -66,6 +66,12 @@ li.navlinks {
     flex: 0 0 100%;
 }
 
-.pepe {
-    
+.right {
+    width:50%;
+    display:flex;
+    justify-content:center;
+}
+
+img.pepe {
+    max-width:50%;
 }
