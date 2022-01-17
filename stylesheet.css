@@ -1,0 +1,11 @@
+* {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header .nav,
+.hero {
+    height: 32px;
+    background-color: #1f2937;
+}
