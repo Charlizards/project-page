@@ -2,8 +2,15 @@ body {
     margin:0;
 }
 
+.logo,.navbar{
+    margin:0;
+}
+
 .header .nav,
 .hero {
-    height: 32px;
     background-color: #1f2937;
+}
+
+.header .nav{
+    height: 32px;
 }
