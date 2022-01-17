@@ -3,7 +3,7 @@ body {
 }
 
 .logo,.navbar{
-    margin:0;
+    margin-top:0;
 }
 
 .header .nav,
@@ -11,6 +11,10 @@ body {
     background-color: #1f2937;
 }
 
-.header .nav{
+.header,.nav{
     height: 32px;
+}
+
+.nav {
+    display:flex;
 }
