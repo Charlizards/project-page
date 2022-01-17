@@ -4,6 +4,11 @@ body {
 
 .logo,.navbar{
     margin-top:0;
+    flex:1 1 0;
+}
+
+ul.navbar {
+    list-style:none;
 }
 
 .header .nav,
