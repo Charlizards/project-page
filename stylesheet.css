@@ -45,3 +45,23 @@ li.navlinks {
 .nav {
     display:flex;
 }
+
+.hero,
+.left {
+    display:flex;
+}
+
+.hero {
+    width:100%;
+}
+
+.left {
+    width:50%;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.maintext,
+.subtext {
+    flex: 0 0 100%;
+}
