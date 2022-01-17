@@ -9,6 +9,11 @@ body {
 
 ul.navbar {
     list-style:none;
+    padding:0;
+}
+
+li.navlinks {
+    display:inline;
 }
 
 .header .nav,
@@ -17,7 +22,7 @@ ul.navbar {
 }
 
 .header,.nav{
-    height: 32px;
+    height: 100%;
 }
 
 .nav {
