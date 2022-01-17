@@ -2,6 +2,11 @@ body {
     margin:0;
 }
 
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 .logo,.navbar{
     margin-top:0;
     flex:1 1 0;
@@ -16,6 +21,8 @@ ul.navbar {
 li.navlinks {
     display:inline;
     flex: 1 1 0;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .header .nav,
