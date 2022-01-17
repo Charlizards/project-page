@@ -10,10 +10,12 @@ body {
 ul.navbar {
     list-style:none;
     padding:0;
+    display: flex;
 }
 
 li.navlinks {
     display:inline;
+    flex: 1 1 0;
 }
 
 .header .nav,
