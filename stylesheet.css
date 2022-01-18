@@ -93,3 +93,9 @@ img.pepe {
     color:#1f2937;
     margin: 20px 0px;
 }
+
+.cards {
+    display:flex;
+    flex: 1;
+    justify-content:space-evenly;
+}
