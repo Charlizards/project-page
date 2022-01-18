@@ -115,4 +115,5 @@ img.pepe {
 
 .card img {
     border:5px solid #1f2937;
+    border-radius: 50%;
 }
