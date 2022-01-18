@@ -7,7 +7,7 @@ body {
 }
 
 .nav {
-    padding: 20px 50px 0px 50px;
+    padding: 20px 10%;
 }
 
 h1.logo {
@@ -63,12 +63,14 @@ li.navlinks {
 .hero {
     width:100%;
     padding: 75px 0px;
+    flex-wrap:nowrap;
 }
 
 .left {
     width:50%;
     display:flex;
     flex-wrap:wrap;
+    padding-left:10%;
 }
 
 .maintext,
@@ -80,10 +82,16 @@ li.navlinks {
     width:50%;
     display:flex;
     justify-content:center;
+    padding-right:10%;
 }
 
 img.pepe {
     max-width:50%;
+}
+
+/*I did an oopsie, this is for class body not actual body tag */
+.body {
+    margin: 5% 0;
 }
 
 .body-title {
