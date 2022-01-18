@@ -42,18 +42,17 @@ li.navlinks {
     height: 100%;
 }
 
-.nav {
-    display:flex;
-}
-
 .hero,
-.left {
+.left,
+.body,
+.cards,
+.nav {
     display:flex;
 }
 
 .hero {
     width:100%;
-    padding: 5% 0 5% 0;
+    padding: 5% 0 7% 0;
 }
 
 .left {
