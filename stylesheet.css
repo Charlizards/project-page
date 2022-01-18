@@ -110,7 +110,9 @@ img.pepe {
 }
 
 .cards .card {
-    max-width: 50px;
-    height: auto;
-    border-radius:10%;
+    flex-direction: column;
+}
+
+.card img {
+    border:5px solid #1f2937;
 }
