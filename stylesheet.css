@@ -3,16 +3,17 @@
 }
 
 body {
-    margin:0;
+    margin:50px;
 }
 
 .nav {
     padding: 20px 50px 0px 50px;
 }
 
-.logo {
+h1.logo {
     font-size: 24px;
     color: #f9faf8;
+    max-width: 40%;
 }
 
 a {
@@ -61,7 +62,7 @@ li.navlinks {
 
 .hero {
     width:100%;
-    padding: 5% 0 7% 0;
+    padding: 75px 0px;
 }
 
 .left {
@@ -91,7 +92,6 @@ img.pepe {
     font-size: 36px;
     font-weight:bolder;
     color:#1f2937;
-    margin: 20px 0px;
 }
 
 .cards {
