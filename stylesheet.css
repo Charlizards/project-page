@@ -40,6 +40,8 @@ li.navlinks {
     flex: 1 1 0;
     color: #e5e7eb;
     font-size: 18px;
+    display:flex;
+    justify-content: space-around;
 }
 
 .header .nav,
