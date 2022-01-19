@@ -94,6 +94,17 @@ img.pepe {
     margin: 5% 0;
 }
 
+.maintext {
+    font-size:48px;
+    font-weight:bolder;
+    color:#f9faf8;
+}
+
+.subtext {
+    font-size:18px;
+    color:#e5e7eb;
+}
+
 .body-title {
     width:100%;
     text-align:center;
