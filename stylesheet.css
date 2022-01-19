@@ -75,6 +75,12 @@ li.navlinks {
     padding-left:10%;
 }
 
+.button-hero {
+    background-color:#3882f6;
+    color:white;
+    padding-top:10px;
+}
+
 .maintext,
 .subtext {
     flex: 0 0 100%;
