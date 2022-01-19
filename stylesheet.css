@@ -119,7 +119,6 @@ img.pepe {
     display:flex;
     flex: 1;
     justify-content:space-evenly;
-    padding-top:5%;
     flex-wrap:nowrap;
     width:100%;
 }
