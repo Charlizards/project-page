@@ -107,13 +107,23 @@ img.pepe {
     flex: 1;
     justify-content:space-evenly;
     padding-top:5%;
+    flex-wrap:nowrap;
+    width:100%;
 }
 
 .cards .card {
     flex-direction: column;
+    justify-content:center;
+    display:flex;
+    align-items: center;
 }
 
 .card img {
     border:5px solid #1f2937;
     border-radius: 50%;
+    width: 60%;
+}
+
+.card-subtext {
+    padding-top: 5%;
 }
